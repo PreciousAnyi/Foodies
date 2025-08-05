@@ -10,7 +10,7 @@ useSeoMeta({
   ogDescription:
     "Search and explore thousands of delicious recipes from around the world.",
   ogImage: "/hero.png",
-  ogUrl: "http://localhost:3000/recipes",
+  ogUrl: "https://foodies-three-lime.vercel.app/recipes",
   twitterTitle: "Recipes - Discover Amazing Dishes",
   twitterDescription:
     "Search and explore thousands of delicious recipes from around the world.",

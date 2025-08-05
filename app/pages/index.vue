@@ -11,7 +11,7 @@ useSeoMeta({
   ogTitle: "Foodies",
   ogDescription: "Recipes for you to cook!",
   ogImage: "/nuxt-course-hero.png",
-  ogUrl: `http:localhost:3000`,
+  ogUrl: `https://foodies-three-lime.vercel.app`,
   twitterTitle: "Foodies",
   twitterDescription: "Recipes for you to cook!",
   twitterImage: "/hero.png",

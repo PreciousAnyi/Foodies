@@ -17,7 +17,7 @@ useSeoMeta({
   ogTitle: data.value?.name,
   ogDescription: "Recipes for you to cook!",
   ogImage: data.value?.image,
-  ogUrl: `http:localhost:3001/recipes/${data.value?.id}`,
+  ogUrl: `https://foodies-three-lime.vercel.app/recipe/${data.value?.id}`,
   twitterTitle: data.value?.name,
   twitterDescription: "Recipes for you to cook!",
   twitterImage: data.value?.image,
