@@ -7,11 +7,6 @@
         <img class="w-14" src="/foodie.png" alt="" />
         <span class="text-2xl font-bold">Foodies</span>
       </a>
-      <ul class="flex gap-6 ml-auto text-xl font-bold capitalize">
-        <li>
-          <a href="/">Home</a>
-        </li>
-      </ul>
     </nav>
   </header>
 </template>
